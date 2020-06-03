@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/FatihPC/Desktop/CS201_HW3_PartA/SimplePerson.h
+string
+-
+
+C:/Users/FatihPC/Desktop/CS201_HW3_PartA/SimplePhoneBook.cpp
+SimplePhoneBook.h
+C:/Users/FatihPC/Desktop/CS201_HW3_PartA/SimplePhoneBook.h
+iostream
+-
+locale
+-
+
+C:/Users/FatihPC/Desktop/CS201_HW3_PartA/SimplePhoneBook.h
+SimplePerson.h
+C:/Users/FatihPC/Desktop/CS201_HW3_PartA/SimplePerson.h
+string
+-
+locale
+-
+

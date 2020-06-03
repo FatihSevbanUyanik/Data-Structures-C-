@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/FatihPC/Desktop/Algorithms/ArrayADT/ArrayADT.h
+iostream
+-
+
+C:/Users/FatihPC/Desktop/Algorithms/ArrayADT/SortedArrayADT.h
+iostream
+-
+
+C:/Users/FatihPC/Desktop/Algorithms/ArrayADT/main.cpp
+iostream
+-
+ArrayADT.h
+C:/Users/FatihPC/Desktop/Algorithms/ArrayADT/ArrayADT.h
+SortedArrayADT.h
+C:/Users/FatihPC/Desktop/Algorithms/ArrayADT/SortedArrayADT.h
+

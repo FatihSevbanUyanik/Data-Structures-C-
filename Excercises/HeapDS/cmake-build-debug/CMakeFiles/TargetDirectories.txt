@@ -1,0 +1,3 @@
+C:/Users/FatihPC/Desktop/CS 202/HeapDS/cmake-build-debug/CMakeFiles/HeapDS.dir
+C:/Users/FatihPC/Desktop/CS 202/HeapDS/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/FatihPC/Desktop/CS 202/HeapDS/cmake-build-debug/CMakeFiles/rebuild_cache.dir

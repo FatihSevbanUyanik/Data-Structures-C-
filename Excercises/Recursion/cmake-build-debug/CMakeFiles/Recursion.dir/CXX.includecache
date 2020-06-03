@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/FatihPC/Desktop/Recursion/LinkedList.cpp
+LinkedList.h
+C:/Users/FatihPC/Desktop/Recursion/LinkedList.h
+
+C:/Users/FatihPC/Desktop/Recursion/LinkedList.h
+
+C:/Users/FatihPC/Desktop/Recursion/main.cpp
+iostream
+-
+algorithm
+-
+LinkedList.h
+C:/Users/FatihPC/Desktop/Recursion/LinkedList.h
+

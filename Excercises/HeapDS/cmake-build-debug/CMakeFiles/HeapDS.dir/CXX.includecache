@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/FatihPC/Desktop/CS 202/HeapDS/Heap.cpp
+Heap.h
+C:/Users/FatihPC/Desktop/CS 202/HeapDS/Heap.h
+
+C:/Users/FatihPC/Desktop/CS 202/HeapDS/Heap.h
+iostream
+-
+
